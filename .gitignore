@@ -1,0 +1,16 @@
+# System & OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor & Temporary files
+*.swp
+*.swo
+*~
+*.tmp
+
+# Compressed Archives (se tieni backup zip/rar locali)
+*.zip
+*.rar
+*.7z
